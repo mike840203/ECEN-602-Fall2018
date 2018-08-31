@@ -1,0 +1,9 @@
+google.com
+case.edu
+twitter.com
+stackoverflow.com
+reddit.com
+mit.edu
+github.com
+umass.edu
+osu.edu
